@@ -12,3 +12,6 @@
 ## Deploy to Azure Static Web Apps
 
 * [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps)  
+
+* deploy setting :   
+![deploy](deploy.png)  
